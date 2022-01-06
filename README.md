@@ -1,7 +1,7 @@
-# Data files and plotting scripts for MEG study on auditory temporal-coherence processing in ASD
+# MEG study on auditory temporal-coherence processing in ASD
 
 
-These files are associated with the manuscript titled "Cortical signatures of auditory object binding in children with Autism Spectrum Disorder are anomalous in concordance with behavior and diagnosis" submitted to PLOS Biology.
+This repository contains data files and plotting scripts associated with the manuscript titled *"Cortical signatures of auditory object binding in children with Autism Spectrum Disorder are anomalous in concordance with behavior and diagnosis"* submitted to PLOS Biology.
 
 
 ## Data files
